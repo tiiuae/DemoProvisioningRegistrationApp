@@ -1,0 +1,23 @@
+
+dkotlin:S125Ä"Remove this commented out code.(ı¤é8ÄÌ•›2J$22ba583d-208e-41e1-bcd6-e55a7d106633
+dkotlin:S125ñ"Remove this commented out code.(¹îç®8ÄÌ•›2J$7ce1ecdc-f4ff-4f4f-9715-09683bddf516
+ikotlin:S125ù"Remove this commented out code.(š€Š¿şÿÿÿÿ8ÄÌ•›2J$ec7b1fae-709c-43d4-a8cd-3af3be69a751
+bkotlin:S6310Ç"Avoid hardcoded dispatchers.(×¢ä¾8’ÄÌ•›2J$d30c303b-dfff-49b6-a05b-d84a09cd4f5f
+fkotlin:S6310W"Avoid hardcoded dispatchers.(¬â§‘ûÿÿÿÿ8’ÄÌ•›2J$e10c4de8-e0a3-4e15-971b-81bf02e23361
+mkotlin:S108Ù")Either remove or fill this block of code.(ş¦i8ŸÄÌ•›2J$396d8061-741f-494f-bc05-cc85141d26f2
+nkotlin:S108Ü")Either remove or fill this block of code.(¼‘Ìı8ŸÄÌ•›2J$5b7b783d-b71d-4ce0-8e43-654873e91cf9
+skotlin:S108ß")Either remove or fill this block of code.(¦í–‹şÿÿÿÿ8ŸÄÌ•›2J$b634d92a-7c62-4d21-91c9-562a959747ad
+skotlin:S108à")Either remove or fill this block of code.(ìôâñÿÿÿÿÿ8ŸÄÌ•›2J$2bbe87fb-9c39-4dc6-a5d0-e941bd5fdc86
+skotlin:S108ã")Either remove or fill this block of code.(‰š½·øÿÿÿÿ8ŸÄÌ•›2J$187a2182-298a-4f7a-8657-66c00f8e65a4
+skotlin:S108ä")Either remove or fill this block of code.(‘õÇÕúÿÿÿÿ8ŸÄÌ•›2J$f694d9ec-21b8-40b0-a77c-45f23f2a070d
+nkotlin:S108å")Either remove or fill this block of code.(š¹Ä£8ŸÄÌ•›2J$a14e0462-f41d-4cd6-a0db-1723c0c5a5bb
+skotlin:S108è")Either remove or fill this block of code.(……¦±ıÿÿÿÿ8ŸÄÌ•›2J$af1bb2dc-d090-4cbb-9963-086d473d7578
+skotlin:S108ü")Either remove or fill this block of code.(Êƒ¨…ùÿÿÿÿ8ŸÄÌ•›2J$05dc1231-acae-4bdb-86fa-fe71dd96bae9
+{kotlin:S1481W"1Remove this unused "responseData" local variable.(¬â§‘ûÿÿÿÿ8§ÄÌ•›2J$2b940bf5-02ba-4dd0-947e-79903ddcd368
+~kotlin:S1481û"8Remove this unused "jetStreamDispatcher" local variable.(´òë“8§ÄÌ•›2J$783ae1ba-6643-4880-a666-3e2fa21d40a7
+pkotlin:S1481ƒ"*Remove this unused "error" local variable.(°ÛØ8§ÄÌ•›2J$bc1d0311-60e4-4274-9e99-7048a761454a
+dkotlin:S11282"Remove this unused import.(Šëİ¨ÿÿÿÿÿ8…ãµ›2J$84ad23c5-f8c9-455e-855c-8c9cf52d4159
+dkotlin:S11284"Remove this unused import.(ƒó…øÿÿÿÿ8…ãµ›2J$fd30d881-fa0e-4001-bf7a-63d72309505a
+“kotlin:S1871"MThis branch's code block is the same as the block for the branch on line 410.(Ş„Ç½8®ÄÌ•›2J$5a531af6-3f41-4a68-bafe-22a433de91ed
+ykotlin:S1066 ".Merge this "if" statement with the nested one.(Şæı”şÿÿÿÿ8¶ÄÌ•›2J$4e811a8a-10fc-4bbe-8694-8841c277b04c
+ƒkotlin:S6511š"=Merge chained "if" statements into a single "when" statement.(ƒó¹ƒ8·ÄÌ•›2J$39828f65-c279-45da-8e6d-54a6067f91ff

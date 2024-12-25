@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/editTextIp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_centerInParent="true"
+        android:inputType="text"
+        android:text="http://192.168.0.121:4000"
+        android:hint="IP address" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_below="@+id/editTextIp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_register"
+        android:layout_marginTop="16dp"
+        android:text="Register"
+        android:layout_below="@+id/button"/>
+
+
+</RelativeLayout>

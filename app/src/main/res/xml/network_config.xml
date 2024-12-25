@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="TODO">192.168.0.121</domain> <!-- Replace with your IP address -->
+    </domain-config>
+    <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="TODO">192.168.57.74</domain> <!-- Replace with your IP address -->
+</domain-config>
+</network-security-config>
